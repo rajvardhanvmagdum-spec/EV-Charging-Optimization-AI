@@ -23,11 +23,7 @@ The system recommends the best charging station based on:
 - Predict charging demand using AI
 
 ## 🛠 Technologies
-
--IOT
-(hardware)
-
-- (software)
+- IOT
 - Java
 - Spring Boot (Future)
 - MySQL
