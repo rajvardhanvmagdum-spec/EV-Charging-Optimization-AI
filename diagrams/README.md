@@ -4,7 +4,6 @@ Project diagrams will be stored here.
 
               Dashboard
                   │
-                  │
          Spring Boot Backend
                   │
          ┌────────┴────────┐
@@ -18,7 +17,6 @@ Project diagrams will be stored here.
                 ESP32
                   │
       ┌───────────┴───────────┐
-      │                       │
  Charging Port 1         Charging Port 2
       │                       │
  Relay + Sensor         Relay + Sensor
