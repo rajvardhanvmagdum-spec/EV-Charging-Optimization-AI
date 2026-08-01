@@ -1,3 +1,3 @@
-#rresearch paper
+#research paper
 
 project related past research paper
