@@ -20,7 +20,7 @@ Kaam: Charger 1 aur Charger 2 ON/OFF.
 ✅ ACS712 Current Sensor ×2
 Kaam: Dono charging ports ka current monitor karega.
 
-🟢 6. Voltage Monitoring
+🟢 6. Voltage Monitoring 
 ✅ Voltage Sensor Module ×2 (Optional but recommended)
 Kaam: Charging voltage monitor karna.
 
