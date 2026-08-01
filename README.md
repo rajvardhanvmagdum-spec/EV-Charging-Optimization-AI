@@ -26,6 +26,7 @@ The system recommends the best charging station based on:
 
 -IOT
 (hardware)
+(software)
 - Java
 - Spring Boot (Future)
 - MySQL
