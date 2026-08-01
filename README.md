@@ -27,7 +27,6 @@ The system recommends the best charging station based on:
 - Java
 - Spring Boot (Future)
 - MySQL
-- HTML/CSS (Future)
 - Artificial Intelligence
 - Git & GitHub
 
