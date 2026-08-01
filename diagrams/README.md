@@ -24,31 +24,3 @@ Project diagrams will be stored here.
       │                       │
       |                       |
  RFID Reader                OLED
-
-## system architecture 
-
-
-EV User
-   ↓
-RFID Scan
-   ↓
-ESP32
-   ↓
-Current & Voltage Sensors
-   ↓
-WiFi/MQTT
-   ↓
-Spring Boot Backend
-   ↓
-MySQL Database
-   ↓
-AI Model
-   ↓
-Decision
-   ↓
-ESP32
-   ↓
-Relay
-   ↓
-Charging Port 1 / Charging Port 2
-
